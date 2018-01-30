@@ -14,8 +14,8 @@
    id="mhs_logo_black"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="black_with_text.svg"
-   inkscape:export-filename="black.png"
+   sodipodi:docname="green_with_text.svg"
+   inkscape:export-filename="green.png"
    inkscape:export-xdpi="68.437508"
    inkscape:export-ydpi="68.437508"
    viewBox="0 0 254.99999 255.00001">
@@ -688,7 +688,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="121.92184"
+     inkscape:cx="80.645651"
      inkscape:cy="143.58648"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -713,7 +713,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -723,22 +723,22 @@
      id="layer1"
      transform="translate(4.8313715e-6,-797.36217)">
     <g
-       id="g5811">
+       id="g4916">
       <g
-         transform="matrix(0.93749999,0,0,0.9375,-215.625,768.89763)"
-         id="g4087">
+         id="g4828">
         <path
-           style="fill:#141414;fill-opacity:1;stroke:none"
-           d="m 230,30.36218 v 82.9375 l 45.125,28.0625 -45.125,28.0625 v 82.9375 h 80 v -56 h 112 v 56 h 80 v -82.9375 L 456.875,141.36218 502,113.29968 v -82.9375 h -80 v 56 H 310 v -56 z"
+           style="fill:#009966;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           d="m -2.3e-6,797.36217 v 77.75391 L 42.304685,901.42467 -2.3e-6,927.73327 v 77.75393 H 74.999997 V 952.98717 H 180 v 52.50003 h 74.99999 v -77.75393 l -42.30468,-26.3086 42.30468,-26.30859 V 797.36217 H 180 v 52.5 H 74.999997 v -52.5 z"
            id="rect2894-4"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#009966;fill-opacity:1;stroke:none"
-           d="m 322,98.36218 v 3.3125 82.6875 h 16 v -45.9375 l 20,45.9375 h 16 l 20,-45.9375 v 45.9375 h 16 v -82.6875 -3.3125 h -16 l -28,64.25 -28,-64.25 z"
+           style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           d="m 86.249997,861.11217 v 3.10547 77.51953 H 101.25 v -43.0664 l 18.75,43.0664 h 15 l 18.75,-43.0664 v 43.0664 h 15 v -77.51953 -3.10547 h -15 l -26.25,60.23438 -26.25,-60.23438 z"
            id="rect3816-5" />
         <g
-           id="g4174">
+           id="g4174"
+           transform="matrix(0.93749999,0,0,0.9375,-215.625,768.89763)">
           <path
              inkscape:connector-curvature="0"
              id="path2898-9-5"
@@ -869,9 +869,9 @@
          id="text3273"
          y="1051.5555"
          x="-2.7817595"
-         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.9375"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.77194214px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.9375"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.77194214px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#cccccc;fill-opacity:1;stroke-width:0.9375"
            y="1051.5555"
            x="-2.7817595"
            id="tspan3275"
